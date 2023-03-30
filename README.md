@@ -1,1 +1,1 @@
-# spring-cloud-config
+# sping-cloud-config

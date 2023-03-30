@@ -1,0 +1,59 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: git@github.com:viplavfauzdar/consig-server-files.git
+          ignore-local-ssh-settings: true
+          private-key:
+            -----BEGIN RSA PRIVATE KEY-----
+            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
+            -----END RSA PRIVATE KEY-----
