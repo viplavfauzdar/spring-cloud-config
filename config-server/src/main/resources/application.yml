@@ -3,6 +3,7 @@ spring:
     config:
       server:
         git:
+          clone-on-start: true
           uri: https://github.com/viplavfauzdar/spring-cloud-config
           search-paths:
           - config-server-files
